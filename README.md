@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mekdes Kassa</h1>
-<h3 align="center"> Junior Data Engineer<\n>  Emerging Junior Data Engineer with a proven track record in building efficient data pipelines using Airflow and dbt.
+<h3 align="center"> Junior Data Engineer</n>  Emerging Junior Data Engineer with a proven track record in building efficient data pipelines using Airflow and dbt.
 Strong foundation in data management, data warehousing, and ETL tools. Skilled in Python, SQL, and cloud platforms.
 Passionate about leveraging academic knowledge and hands-on experience to tackle real-world data challenges and
 contribute to informed business decisions. Excited to learn and grow in the field of data engineering.</h3>
