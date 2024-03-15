@@ -23,7 +23,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mekdes-kassa&show_icons=true&locale=en&layout=compact" alt="mekdes-kassa" /></p>
 
-[![Mekdes-Kassa's GitHub | Languages Over Time](https://stats.quine.sh/Mekdes-Kassa/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Mekdes-Kassa)
+
 [![Mekdes-Kassa's GitHub | Topics Over Time](https://stats.quine.sh/Mekdes-Kassa/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Mekdes-Kassa)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mekdes-kassa&" alt="mekdes-kassa" /></p>
