@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data pipelines**
 
-- 📝 I regularly write articles on [Data engineering and Machine learning projects]
+- 📝 I regularly write articles on Data engineering and Machine learning 
 
 - 💬 Ask me about **Python, SQL**
 
